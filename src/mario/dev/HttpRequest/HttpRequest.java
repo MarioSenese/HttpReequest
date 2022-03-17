@@ -8,8 +8,8 @@ import java.io.IOException;
 */
 public class HttpRequest {
     
-    public static final String API_KEY = "cc2655d5455270553103"; //cc2655d5455270553103";
-    public static final String URL_API = "https://www.balldontlie.io/api/v1/players"; //http://free.currconv.com/api/v7/currencies?apiKey=" + API_KEY;
+    public static final String API_KEY = "[API_KEY]";
+    public static final String URL_API = "[URL_API] + [API_KEY]";
     
     /**
      * @param args the command line arguments
