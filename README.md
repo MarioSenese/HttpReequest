@@ -14,9 +14,3 @@ My solutions are:
 1.  **HttpURLConnection**
 2.  **HttpClient**
 3.  **Apache HttpClient**
-
-##  HttpURLConnection
-
-##  HttpClient
-
-##  Apache HttpClient
